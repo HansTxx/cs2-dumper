@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-11-03 23:09:06.044785600 UTC
+// 2026-11-05 13:59:50.335754500 UTC
 
 #pragma once
 
@@ -7342,7 +7342,7 @@ namespace cs2_dumper {
                 constexpr std::ptrdiff_t m_flActiveFollowStartTime = 0x32A4; // GameTime_t
                 constexpr std::ptrdiff_t m_followMinuteTimer = 0x32A8; // CountdownTimer
                 constexpr std::ptrdiff_t m_BlockDirectionTimer = 0x32C8; // CountdownTimer
-                constexpr std::ptrdiff_t m_bSpawnDyingParticles = 0x32E2; // bool
+                constexpr std::ptrdiff_t m_bSpawnDyingParticles = 0x32E3; // bool
             }
             // Parent: CPhysicsProp
             // Field count: 5
